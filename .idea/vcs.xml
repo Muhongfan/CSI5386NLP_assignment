@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/A2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/A2/GloVe" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/A2/claff-happydb" vcs="Git" />
   </component>
 </project>
